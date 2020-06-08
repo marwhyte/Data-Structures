@@ -132,6 +132,8 @@ return elements in Last In First Out order.
    implementing a Stack?
 """
 
+# array will be O(n) while linked list is O(1)
+
 
 class Stack:
     def __init__(self):
